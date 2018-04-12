@@ -217,8 +217,8 @@ Your HTML elements should look something like this:
   ...
 </div>
 <div class="uk-width-large-1-2 uk-grid">
-  <div class="uk-width-large-1-2 uk-pull-3-5">... </div>
-  <div class="uk-width-large-1-2 uk-pull-2-5"> ... </div>
+  <div class="uk-width-large-1-2">... </div>
+  <div class="uk-width-large-1-2"> ... </div>
   <div class="uk-width-small-1-2"> ... </div>
   <div class="uk-width-small-1-2"> ... </div>
   ...
